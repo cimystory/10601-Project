@@ -5,7 +5,7 @@ from math import log
 
 
 distribution = {1:[], 2:[], 3:[], 4:[], 5:[]}
-movie_genres = get_all_genres()
+movie_genres = dbLib.getAllGenres()
 
 def train_user(user):
     [movies, ratings] = zip(*get_movies(user))
