@@ -1,0 +1,67 @@
+-------------- Result for movie 191 --------------
+Reporting result for movie 191
+Rating 1: 0.06 of the users.
+Rating 2: 0.06 of the users.
+Rating 3: 0.20 of the users.
+Rating 4: 0.27 of the users.
+Rating 5: 0.42 of the users.
+Average Rating: 3.9
+
+True result:
+Rating 1: 0.01 of the users.
+Rating 2: 0.04 of the users.
+Rating 3: 0.23 of the users.
+Rating 4: 0.43 of the users.
+Rating 5: 0.29 of the users.
+Average Rating: 3.9
+
+-------------- Result for movie 361 --------------
+Reporting result for movie 361
+Rating 1: 0.06 of the users.
+Rating 2: 0.06 of the users.
+Rating 3: 0.20 of the users.
+Rating 4: 0.27 of the users.
+Rating 5: 0.42 of the users.
+Average Rating: 3.9
+
+True result:
+Rating 1: 0.05 of the users.
+Rating 2: 0.11 of the users.
+Rating 3: 0.25 of the users.
+Rating 4: 0.31 of the users.
+Rating 5: 0.27 of the users.
+Average Rating: 3.6
+
+-------------- Result for movie 468 --------------
+Reporting result for movie 468
+Rating 1: 0.22 of the users.
+Rating 2: 0.14 of the users.
+Rating 3: 0.28 of the users.
+Rating 4: 0.17 of the users.
+Rating 5: 0.20 of the users.
+Average Rating: 3.0
+
+True result:
+Rating 1: 0.05 of the users.
+Rating 2: 0.13 of the users.
+Rating 3: 0.30 of the users.
+Rating 4: 0.31 of the users.
+Rating 5: 0.22 of the users.
+Average Rating: 3.5
+
+-------------- Result for movie 14240 --------------
+Reporting result for movie 14240
+Rating 1: 0.12 of the users.
+Rating 2: 0.10 of the users.
+Rating 3: 0.27 of the users.
+Rating 4: 0.20 of the users.
+Rating 5: 0.30 of the users.
+Average Rating: 3.5
+
+True result:
+Rating 1: 0.01 of the users.
+Rating 2: 0.02 of the users.
+Rating 3: 0.07 of the users.
+Rating 4: 0.21 of the users.
+Rating 5: 0.69 of the users.
+Average Rating: 4.5
